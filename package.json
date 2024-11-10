@@ -1,0 +1,16 @@
+{
+  "name": "inance-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "dev": "your-command --port 4000",
+  "start": "node app.js",
+  "build": "webpack --config webpack.config.js",
+  "test": "echo \"Error: no test specified\" && exit 1"
+},
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
